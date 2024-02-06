@@ -51,8 +51,8 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 •	Removed Unnecessary rows
 
 •	Each of the columns in the table were validated to have the correct data type
-
-Data Modeling:
+**
+**Data Modeling:****
 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
@@ -60,6 +60,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 - 
 **Data Analysis (DAX):**
+  
 Measures used in all visualization are:
 
 •	Average of seed of answerd = AVERAGE('call centre trends'[Speed of answer in seconds])
@@ -82,9 +83,11 @@ Measures used in all visualization are:
 
 •	total calls unanswred =COUNTX(FILTER('call centre trends','call centre trends'[Answered (Y/N)] = "No"), 'call centre trends'[Answered (Y/N)])
 
+
 **Data Visualization (Dashboard) :**
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop which shows  Call Centre Trends (Overview) and Call Centre Trends (Agent's Performance)
+
  
 **Insights :**
 
