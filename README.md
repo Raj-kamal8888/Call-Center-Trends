@@ -8,8 +8,6 @@
 
 •	Data Preparation
 
-•	Data Modelling
-
 •	Data Analysis (DAX)
 
 •	Data Visualization Dashboard
@@ -53,11 +51,8 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 •	Each of the columns in the table were validated to have the correct data type
 
 
-**Data Modelling**
 
-And then dataset was cleaned and transformed, it was ready to the data modeled.
-
-- 
+ 
 **Data Analysis (DAX):**
   
 Measures used in all visualization are:
