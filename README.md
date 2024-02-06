@@ -51,12 +51,11 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 •	Removed Unnecessary rows
 
 •	Each of the columns in the table were validated to have the correct data type
-**
-**Data Modeling:****
+
+
+**Data Modelling**
 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
-
-•	The measure table and call centre trends tables as show below:
 
 - 
 **Data Analysis (DAX):**
