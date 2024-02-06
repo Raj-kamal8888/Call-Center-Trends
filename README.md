@@ -1,12 +1,19 @@
-PWC Power BI Virtual work experience- Call Centre Trends
+**PWC Power BI Virtual work experience- Call Centre Trends**
  
-Table of Contents :
+**Table of Contents :**
+
 •	Problem Statement
+
 •	Datasource
+
 •	Data Preparation
+
 •	Data Modelling
+
 •	Data Analysis (DAX)
+
 •	Data Visualization Dashboard
+
 •	Insights
 Problem Statement :
 In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
