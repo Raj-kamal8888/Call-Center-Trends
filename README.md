@@ -1,8 +1,7 @@
-▶
-▶
+
 **PWC Power BI Virtual work experience- Call Centre Trends**
 
-I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 1st BI task from the internship, objective was that the client wanted insights behind the churning customers.
+I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 1st BI task from the internship, objective was to analyse the trends & patterns of a call centre through the data provided.
 
 My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
  
