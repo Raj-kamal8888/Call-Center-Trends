@@ -72,6 +72,9 @@ Measures used in all visualization are:
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop which shows  Call Centre Trends (Overview) and Call Centre Trends (Agent's Performance)
 
+![Call center](https://github.com/Raj-kamal8888/Call-Center-Trends/assets/111457714/3d3fce02-08da-4558-99f5-e4c3e0c96943)
+
+
  
 **Insights :**
 
