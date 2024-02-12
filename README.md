@@ -4,6 +4,9 @@
 I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 1st BI task from the internship, objective was to analyse the trends & patterns of a call centre through the data provided.
 
 My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
+
+![Picture1](https://github.com/Raj-kamal8888/Call-Center-Trends/assets/111457714/cb645f4e-7822-4c84-b103-33408e96609a)
+
  
 
 **Problem Statement :**
